@@ -1,4 +1,4 @@
-# 🌟 𝐀𝐙𝐔𝐑𝐀 𝐔𝐋𝐓𝐑𝐀 𝟐.𝟎 𝐁𝐎𝐓 🌟  
+# 🌟 𝐂𝐑𝐀𝐙𝐘𝐍 𝐌𝐎𝐃𝐒 𝟐.𝟎 𝐁𝐎𝐓 🌟  
 🔥 **El bot definitivo para grupos de WhatsApp con sistema RPG, administración avanzada y más.**  
 
 ≪━─━─━─━─◈─━─━─━─━≫  
@@ -13,7 +13,7 @@
 ✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧  
 ≪━─━─━─━─◈─━─━─━─━≫  
 
-## 🚀 **¿Qué es Azura Ultra 2.0?**  
+## 🚀 **¿Qué es 𝐂𝐑𝐀𝐙𝐘𝐍 𝐌𝐎𝐃𝐒 2.0?**  
 Azura Ultra 2.0 es un bot **potente y multifuncional** diseñado para mejorar la experiencia en grupos de WhatsApp.  
 Incluye **un sistema RPG**, herramientas de **moderación avanzada**, **minijuegos**, **descargas** y mucho más.  
 
@@ -66,8 +66,7 @@ Incluye **un sistema RPG**, herramientas de **moderación avanzada**, **minijueg
 - 👑 **Russell XZ** (Creador de Azura Ultra 2.0 Bot)  
 
 🤖 **𝐂𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫𝐞𝐬:**  
-- 🔹 [DIEGO-OFC](https://github.com/DIEGO-OFC)  
-- 🔹 [Eliasar54](https://github.com/Eliasar54)  
+- 🔹 [CRAZYN MODS](https://github.com/THEKING614) 
 
 📢 **¡Gracias por su apoyo en el desarrollo de este increíble bot!** 🚀  
 
